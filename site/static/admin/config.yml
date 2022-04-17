@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: petrospe/https://github.com/petrospe/one-click-hugo-cms.git
+  repo: https://github.com/petrospe/one-click-hugo-cms.git
   branch: main
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
